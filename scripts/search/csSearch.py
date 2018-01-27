@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 import webbrowser
 
 print("Welcome to SearchPy: Automated Search For CS queries\n")
